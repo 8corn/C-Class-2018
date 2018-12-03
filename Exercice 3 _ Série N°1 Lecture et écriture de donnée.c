@@ -1,6 +1,6 @@
 //
 //  main.c
-//  Exercice 3 _ Série N°1 Lecture et écriture de donnée
+//  Exercice 3 _ Série N°1 Lecture et écriture de donnée
 //
 //  Created by Aymen charmi on 11/16/18.
 //  Copyright © 2018 Aymen charmi. All rights reserved.
@@ -10,9 +10,9 @@
 
 /* Exercice 3:
    ----------
- Ecrire un programme qui affiche la résistance équivalente à trois résistances R1, R2, R3 (type double),
-- si les résistances sont branchées en série: Rsér = R1+R2+R3
-- si les résistances sont branchées en parallèle: Rpar = R1R2R3/R1R2+R1R3+R2R3  */
+ Ecrire un programme qui affiche la résistance équivalente à trois résistances R1, R2, R3 (type double),
+- si les résistances sont branchées en série: Rsér = R1+R2+R3
+- si les résistances sont branchées en parallèle: Rpar = R1R2R3/R1R2+R1R3+R2R3  */
 
 
 #include <stdio.h>
