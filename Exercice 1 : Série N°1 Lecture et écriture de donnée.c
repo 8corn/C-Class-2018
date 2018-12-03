@@ -1,6 +1,6 @@
 //
 //  main.c
-//  Série N°1 Lecture et écriture de donnée
+//  Exercice 1 : Série N°1 Lecture et écriture de donnée
 //
 //  Created by Aymen charmi on 11/16/18.
 //  Copyright © 2018 Aymen charmi. All rights reserved.
@@ -8,7 +8,7 @@
 
 /* Exercice 1:
  ----------
- Ecrire un programme qui permute et affiche les valeurs de trois variables A, B, C de type entier qui sont entrées au clavier :
+ Ecrire un programme qui permute et affiche les valeurs de trois variables A, B, C de type entier qui sont entrées au clavier :
  A ==> B , B ==> C , C ==> A */
 
 #include <stdio.h>
