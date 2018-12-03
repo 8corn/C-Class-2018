@@ -1,6 +1,6 @@
 //
 //  main.c
-//  Exercice 7 _ Série N°1 Lecture et écriture de donnée
+//  Exercice 7 _ Série N°1 Lecture et écriture de donnée
 //
 //  Created by Aymen charmi on 11/16/18.
 //  Copyright © 2018 Aymen charmi. All rights reserved.
