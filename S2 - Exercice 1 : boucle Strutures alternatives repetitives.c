@@ -1,6 +1,6 @@
 //
 //  main.c
-//  Exercice 1 _ Série N°2 boucle Strutures alternatives repetitives
+//  Exercice 1 _ Série N°2 boucle Strutures alternatives repetitives
 //
 //  Created by Aymen charmi on 11/30/18.
 //  Copyright © 2018 Aymen charmi. All rights reserved.
@@ -8,11 +8,11 @@
 
 /* Exercice 1:
  ----------
- Ecrivez un programme qui lit N nombres entiers au clavier et qui affiche leur somme, leur produit et leur moyenne. Choisissez un type approprié pour les valeurs à afficher. Le nombre N est à entrer au clavier. Résolvez ce problème,
+ Ecrivez un programme qui lit N nombres entiers au clavier et qui affiche leur somme, leur produit et leur moyenne. Choisissez un type approprié pour les valeurs à afficher. Le nombre N est à entrer au clavier. Résolvez ce problème,
  a) en utilisant while,
  b) en utilisant do - while,
  c) en utilisant for.
- d) Laquelle des trois variantes est la plus naturelle pour ce problème?
+ d) Laquelle des trois variantes est la plus naturelle pour ce problème?
  */
 
 #include <stdio.h>
@@ -80,5 +80,5 @@ for (SOM=0, PROD=1, I=1 ; I<=N ; I++)
 /*
 d) FOR
 ------
-la variante la plus naturelle pour ce problème est le c -> boucle FOR
+la variante la plus naturelle pour ce problème est le c -> boucle FOR
 */
