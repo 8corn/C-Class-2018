@@ -1,6 +1,6 @@
 //
 //  main.c
-//  Exercice 3 _ Série N°2 boucle Strutures alternatives repetitives
+//  Exercice 3 _ Série N°2 boucle Strutures alternatives repetitives
 //
 //  Created by Aymen charmi on 11/30/18.
 //  Copyright © 2018 Aymen charmi. All rights reserved.
@@ -8,7 +8,7 @@
 
 /* Exercice 3:
  ----------
- Calculez la somme des N premiers termes de la série harmonique, N est un paramètre donné par l’utilisateur à l’entrée.
+ Calculez la somme des N premiers termes de la série harmonique, N est un paramètre donné par l’utilisateur à l’entrée.
  1 + 1/2 + 1/3 + ... + 1/N
  */
 
