@@ -1,6 +1,6 @@
 //
 //  main.c
-//  Exercice 7 _ Série N°2 boucle Strutures alternatives repetitives
+//  Exercice 7 _ Série N°2 boucle Strutures alternatives repetitives
 //
 //  Created by Aymen charmi on 11/30/18.
 //  Copyright © 2018 Aymen charmi. All rights reserved.
@@ -8,10 +8,10 @@
 
 /* Exercice 7:
  ----------
- Calculez pour une valeur X donnée du type float la valeur numérique d'un polynôme de
- degré n:
+ Calculez pour une valeur X donnée du type float la valeur numérique d'un polynôme de
+ degré n:
  P(X) = AnX^n + An-1X^n-1 + ... + A1X + A0
- Les valeurs de n, des coefficients An, ... , A0 et de X seront entrées au clavier.
+ Les valeurs de n, des coefficients An, ... , A0 et de X seront entrées au clavier.
  */
 
 #include <stdio.h>
