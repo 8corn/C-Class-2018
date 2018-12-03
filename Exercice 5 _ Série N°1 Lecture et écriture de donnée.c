@@ -1,6 +1,6 @@
 //
 //  main.c
-//  Exercice 5 _ Série N°1 Lecture et écriture de donnée
+//  Exercice 5 _ Série N°1 Lecture et écriture de donnée
 //
 //  Created by Aymen charmi on 11/16/18.
 //  Copyright © 2018 Aymen charmi. All rights reserved.
@@ -8,8 +8,8 @@
 
 /* Exercice 5:
    -----------
-Ecrire un programme qui calcule la somme de quatre nombres du type int entrés au clavier, a) en se servant de 5 variables (mémorisation des valeurs entrées)
-b) en se servant de 2 variables (perte des valeurs entrées)
+Ecrire un programme qui calcule la somme de quatre nombres du type int entrés au clavier, a) en se servant de 5 variables (mémorisation des valeurs entrées)
+b) en se servant de 2 variables (perte des valeurs entrées)
  */
 
 #include <stdio.h>
