@@ -1,6 +1,6 @@
 //
 //  main.c
-//  Exercice 4 _ Série N°2 boucle Strutures alternatives repetitives
+//  Exercice 4 _ Série N°2 boucle Strutures alternatives repetitives
 //
 //  Created by Aymen charmi on 11/30/18.
 //  Copyright © 2018 Aymen charmi. All rights reserved.
@@ -8,10 +8,10 @@
 
 /* Exercice 4:
  ----------
-Calculez la somme, le produit et la moyenne d'une suite de chiffres non nuls entrés au
- clavier, sachant que la suite est terminée par zéro. Retenez seulement les chiffres
- (0, 1 ... 9) lors de l'entrée des données et effectuez un signal sonore si les
- données sortent de ce domaine.
+Calculez la somme, le produit et la moyenne d'une suite de chiffres non nuls entrés au
+ clavier, sachant que la suite est terminée par zéro. Retenez seulement les chiffres
+ (0, 1 ... 9) lors de l'entrée des données et effectuez un signal sonore si les
+ données sortent de ce domaine.
  */
 
 #include <stdio.h>
