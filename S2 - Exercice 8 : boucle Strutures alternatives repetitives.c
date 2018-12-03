@@ -1,6 +1,6 @@
 //
 //  main.c
-//  Exercice 8 _ Série N°2 boucle Strutures alternatives repetitives
+//  Exercice 8 _ Série N°2 boucle Strutures alternatives repetitives
 //
 //  Created by Aymen charmi on 11/30/18.
 //  Copyright © 2018 Aymen charmi. All rights reserved.
@@ -8,7 +8,7 @@
 
 /* Exercice 8:
  ----------
- Affichez un triangle isocèle formé d'étoiles de N lignes (N est fourni au clavier):
+ Affichez un triangle isocèle formé d'étoiles de N lignes (N est fourni au clavier):
  */
 
 
