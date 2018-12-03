@@ -1,15 +1,15 @@
 //
 //  main.c
-//  Exercice 4 _ Série N°1 Lecture et écriture de donnée
+//  Exercice 4 _ Série N°1 Lecture et écriture de donnée
 //
 //  Created by Aymen charmi on 11/16/18.
 //  Copyright © 2018 Aymen charmi. All rights reserved.
 //
 /* Exercice 4
    ----------
-Ecrire un programme qui calcule et affiche l'aire d'un triangle dont il faut entrer les longueurs des trois côtés. Utilisez la formule :
+Ecrire un programme qui calcule et affiche l'aire d'un triangle dont il faut entrer les longueurs des trois côtés. Utilisez la formule :
 S^2= P(P-A)(P-B)(P-C)
-où A, B, C sont les longueurs des trois côtés (type int) et P le demi-périmètre du triangle.
+où A, B, C sont les longueurs des trois côtés (type int) et P le demi-périmètre du triangle.
  */
 
 #include <stdio.h>
