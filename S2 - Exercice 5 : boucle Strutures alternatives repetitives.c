@@ -1,6 +1,6 @@
 //
 //  main.c
-//  Exercice 5 _ Série N°2 boucle Strutures alternatives repetitives
+//  Exercice 5 _ Série N°2 boucle Strutures alternatives repetitives
 //
 //  Created by Aymen charmi on 11/30/18.
 //  Copyright © 2018 Aymen charmi. All rights reserved.
@@ -8,9 +8,9 @@
 
 /* Exercice 5:
  ----------
- Calculez le nombre lu à rebours d'un nombre positif entré au clavier en supposant que le
- fichier d'entrée standard contient une suite de chiffres non nuls, terminée par zéro
- (Contrôlez s'il s'agit vraiment de chiffres). Exemple: Entrée: 1 2 3 4 0 Affichage: 4321
+ Calculez le nombre lu à rebours d'un nombre positif entré au clavier en supposant que le
+ fichier d'entrée standard contient une suite de chiffres non nuls, terminée par zéro
+ (Contrôlez s'il s'agit vraiment de chiffres). Exemple: Entrée: 1 2 3 4 0 Affichage: 4321
  */
 
 #include <stdio.h>
