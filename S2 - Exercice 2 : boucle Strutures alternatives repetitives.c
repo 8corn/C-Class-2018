@@ -1,6 +1,6 @@
 //
 //  main.c
-//  Exercice 2 _ Série N°2 boucle Strutures alternatives repetitives
+//  Exercice 2 _ Série N°2 boucle Strutures alternatives repetitives
 //
 //  Created by Aymen charmi on 11/30/18.
 //  Copyright © 2018 Aymen charmi. All rights reserved.
@@ -8,7 +8,7 @@
 
 /* Exercice 2:
  ----------
- Calculez par multiplications successives X^N de deux entiers naturels X et N entrés au clavier.
+ Calculez par multiplications successives X^N de deux entiers naturels X et N entrés au clavier.
  */
 
 #include <stdio.h>
