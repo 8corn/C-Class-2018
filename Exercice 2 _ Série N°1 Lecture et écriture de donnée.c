@@ -1,6 +1,6 @@
 //
 //  main.c
-//  Exercice 2 _ Série N°1 Lecture et écriture de donnée
+//  Exercice 2 _ Série N°1 Lecture et écriture de donnée
 //
 //  Created by Aymen charmi on 11/16/18.
 //  Copyright © 2018 Aymen charmi. All rights reserved.
@@ -10,7 +10,7 @@
 /*
  Exercice 2:
  ----------
- Ecrire un programme qui affiche le quotient et le reste de la division entière de deux nombres entiers entrés au clavier ainsi que le quotient rationnel de ces nombres.
+ Ecrire un programme qui affiche le quotient et le reste de la division entière de deux nombres entiers entrés au clavier ainsi que le quotient rationnel de ces nombres.
  */
 
 #include <stdio.h>
